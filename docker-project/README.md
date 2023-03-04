@@ -12,3 +12,7 @@ That's basically what Docker does - it helps you keep different computer program
 
 - RUN is an image build step, the state of the container after a RUN command will be committed to the container image. A Dockerfile can have many RUN steps that layer on top of one another to build the image. CMD is the command the container executes by default when you launch the built image.
 - The docker-compose.yaml file can overide the CMD step in the Dockerfile, and can map local folders to folders in the container, s.t local changes are reflected in the container
+
+## Original Source 
+
+Refer https://youtu.be/zkMRWDQV4Tg for the original source
