@@ -20,4 +20,4 @@ The rancher is responsible optimizing your cattle ranch as efficient as possible
 
 ## Original Source
 
-Refer https://www.youtube.com/watch?v=-g9r8BSlDFI&list=PLyxbPhxVVet2xLeQ5OrQqXlf-DNnc4Srj&index=6 for the original source
+Refer https://youtu.be/-g9r8BSlDFI for the original source
