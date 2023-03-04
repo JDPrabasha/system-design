@@ -18,3 +18,6 @@ The rancher is responsible optimizing your cattle ranch as efficient as possible
 - Run `kubectl apply -f <filename>.yaml` for each file in the kubernetes directory to start up the pods, service and ingress in that exact order
 - Run `minikube tunnel`to access the ingress and observe how the load is balanced among the different pods
 
+## Original Source
+
+Refer https://www.youtube.com/watch?v=-g9r8BSlDFI&list=PLyxbPhxVVet2xLeQ5OrQqXlf-DNnc4Srj&index=6 for the original source
