@@ -1,4 +1,5 @@
 # Docker
+![image](https://user-images.githubusercontent.com/62155402/224470820-2b551dc7-6963-448f-b36c-d8a8b046f361.png)
 
 You know how you have a toy box with different compartments for different toys? Well, imagine if you could have a magic toy box that can hold lots of different toys and each toy would be in its own separate box inside the big toy box.
 
