@@ -3,21 +3,21 @@ This repo is a collection of projects aimed at helping anyone interested in lear
 
 ## Projects Included
 
-- [Docker-project](./docker-project/README.md "Provides an overview of Docker and demonstrates how it can be used to build, ship, and run applications in containers")
+- [Docker Project](./docker-project/README.md "Provides an overview of Docker and demonstrates how it can be used to build, ship, and run applications in containers")
 
-- [Grpc-project](./grpc-project/README.md | Explains the concept of gRPC and demonstrates how it can be used to build high-performance, scalable, and secure distributed systems)
+- [gRPC Project](./grpc-project/README.md "Explains the concept of gRPC and demonstrates how it can be used to build high-performance, scalable, and secure distributed systems")
 
-- [Kafka-project](./kafka-project/README.md | Provides an overview of Apache Kafka and shows how it can be used to build real-time streaming applications)
+- [Kafka Project](./kafka-project/README.md "Provides an overview of Apache Kafka and shows how it can be used to build real-time streaming applications")
 
-- [Rabbitmq-project](./rabbitmq-project/README.md | Explains the concept of RabbitMQ and demonstrates how it can be used as a message broker to enable communication between distributed systems)
+- [RabbitMQ Project](./rabbitmq-project/README.md "Explains the concept of RabbitMQ and demonstrates how it can be used as a message broker to enable communication between distributed systems")
 
-- [Go-sockets-project](./go-sockets-project/README.md | Explains the concept of WebSockets and demonstrates how they can be used to build real-time web applications)
+- [Go Sockets Project](./go-sockets-project/README.md "Explains the concept of WebSockets and demonstrates how they can be used to build real-time web applications")
 
-- [K8s-project](./k8s-project/README.md | Provides an overview of Kubernetes and demonstrates how it can be used to deploy, scale, and manage containerized applications)
+- [K8s Project](./k8s-project/README.md "Provides an overview of Kubernetes and demonstrates how it can be used to deploy, scale, and manage containerized applications")
 
-- [Nginx-project](./nginx-project/README.md | Explains the concept of Nginx and demonstrates how it can be used as a web server, reverse proxy, and load balancer)
+- [Nginx Project](./nginx-project/README.md "Explains the concept of Nginx and demonstrates how it can be used as a web server, reverse proxy, and load balancer")
 
-- [Redis-project](./redis-project/README.md | Provides an overview of Redis and demonstrates how it can be used as an in-memory data structure store to enable caching and high-performance data access)
+- [Redis Pproject](./redis-project/README.md "Provides an overview of Redis and demonstrates how it can be used as an in-memory data structure store to enable caching and high-performance data access")
 
 
 ## Purpose
