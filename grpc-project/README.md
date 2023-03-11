@@ -1,5 +1,8 @@
 # gRPC
 
+![image](https://user-images.githubusercontent.com/62155402/224470894-c3cf518a-bac9-428e-99cc-00c92f5ec26b.png)
+
+
 REST stands for “REpresentational State Transfer.” It provides a set of guidelines on how to create web APIs. But that’s it, a set of guidelines. It does not try to enforce anything.
 
 gRPC is a message-passing technique developed by Google. But the “g” in gRPC does not mean “google”; it’s actually pretty random. For example, the “g” in gRPC 1.12 stands for “glorious.”
@@ -9,3 +12,7 @@ gRPC is programming-language agnostic, and it seems to be the new trend in the m
 So, gRPC does not provide a set of guidelines on how to create web APIs; it enforces rules. This time, the mailman would be very angry if you didn’t start the letter with a proper salutation!
 
 That is its main advantage over REST: gRPC, in most cases, is way faster and more robust, as it defines a specific set of rules each request and response should adhere to.
+
+## Original Source
+
+This project was created following [this tutorial](https://www.youtube.com/watch?v=E0CaocyNYKg&t=562s) by Mahesh Kariya on YouTube.
