@@ -1,5 +1,8 @@
 # Kubernetes
 
+![image](https://user-images.githubusercontent.com/62155402/224470500-b18af394-e06a-405a-9f91-5b257917c921.png)
+
+
 Let's say you create many cows (docker containers) with the same blueprint (docker image) and let the cows do their thing in the corral (docker daemon).
 
 You have all the dairy cows in one place but it's getting pretty crowded and they're eating all the stuff around them (resources) and you need to redistribute them to other areas or they will die.
