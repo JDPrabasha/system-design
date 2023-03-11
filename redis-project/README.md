@@ -1,5 +1,8 @@
 # Redis
 
+![image](https://user-images.githubusercontent.com/62155402/224470071-d93d1e09-01a7-497f-9a74-273eddab7fd6.png)
+
+
 Okay, let's imagine you have a bunch of toys that you love to play with all the time. But sometimes, when you need to get a specific toy, it takes a lot of time to find it because they are scattered all over your room.
 
 Redis caching is like having a special box where you can keep your favorite toys right beside you, so you don't have to search for them every time. This box is called Redis Cache. It stores the data you need frequently, like your favorite toys, in a special place where it can be accessed quickly.
