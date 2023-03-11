@@ -1,6 +1,7 @@
 # gRPC
 
-![image](https://user-images.githubusercontent.com/62155402/224470894-c3cf518a-bac9-428e-99cc-00c92f5ec26b.png)
+![image](https://user-images.githubusercontent.com/62155402/224470970-d0663836-0738-4b87-8c40-1af64e18071b.png)
+
 
 
 REST stands for “REpresentational State Transfer.” It provides a set of guidelines on how to create web APIs. But that’s it, a set of guidelines. It does not try to enforce anything.
