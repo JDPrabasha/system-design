@@ -3,7 +3,7 @@ This repo is a collection of projects aimed at helping anyone interested in lear
 
 ## Projects Included
 
-- [Docker-project](./docker-project/README.md | Provides an overview of Docker and demonstrates how it can be used to build, ship, and run applications in containers)
+- [Docker-project](./docker-project/README.md "Provides an overview of Docker and demonstrates how it can be used to build, ship, and run applications in containers")
 
 - [Grpc-project](./grpc-project/README.md | Explains the concept of gRPC and demonstrates how it can be used to build high-performance, scalable, and secure distributed systems)
 
