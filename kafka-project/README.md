@@ -1,4 +1,5 @@
 # Kafka
+![image](https://user-images.githubusercontent.com/62155402/224470300-e963730e-64e7-4ead-81b9-d9f3cd74edbc.png)
 
 Kafka is like a big mailbox where people can send messages to each other. Imagine you have a bunch of friends who live in different parts of the world, and you want to send them messages. You can't just send one message to all of them at once, because they might not be online at the same time.
 
